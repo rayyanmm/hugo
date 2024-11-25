@@ -2,227 +2,227 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/blog/</loc>
+    <loc>http://localhost:1313/hugo/categories/blog/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/categories/blog/"
+                href="http://localhost:1313/hugo/pt-pt/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/blog/"
+                href="http://localhost:1313/hugo/categories/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/hugo/categories/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/categories/"
+                href="http://localhost:1313/hugo/pt-pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="http://localhost:1313/hugo/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/hugo/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/"
+                href="http://localhost:1313/hugo/pt-pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="http://localhost:1313/hugo/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/ipsum/</loc>
+    <loc>http://localhost:1313/hugo/tags/ipsum/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/tags/ipsum/"
+                href="http://localhost:1313/hugo/pt-pt/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/ipsum/"
+                href="http://localhost:1313/hugo/tags/ipsum/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/lorem/</loc>
+    <loc>http://localhost:1313/hugo/tags/lorem/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/tags/lorem/"
+                href="http://localhost:1313/hugo/pt-pt/tags/lorem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/lorem/"
+                href="http://localhost:1313/hugo/tags/lorem/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/post/</loc>
+    <loc>http://localhost:1313/hugo/tags/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/tags/post/"
+                href="http://localhost:1313/hugo/pt-pt/tags/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/post/"
+                href="http://localhost:1313/hugo/tags/post/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/post/</loc>
+    <loc>http://localhost:1313/hugo/categories/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/categories/post/"
+                href="http://localhost:1313/hugo/pt-pt/categories/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/post/"
+                href="http://localhost:1313/hugo/categories/post/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/hugo/posts/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/posts/"
+                href="http://localhost:1313/hugo/pt-pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/"
+                href="http://localhost:1313/hugo/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/post-lite-one/</loc>
+    <loc>http://localhost:1313/hugo/posts/post-lite-one/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/posts/post-lite-one/"
+                href="http://localhost:1313/hugo/pt-pt/posts/post-lite-one/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/post-lite-one/"
+                href="http://localhost:1313/hugo/posts/post-lite-one/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/post-lite-three/</loc>
+    <loc>http://localhost:1313/hugo/posts/post-lite-three/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/posts/post-lite-three/"
+                href="http://localhost:1313/hugo/pt-pt/posts/post-lite-three/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/post-lite-three/"
+                href="http://localhost:1313/hugo/posts/post-lite-three/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/post-lite-two/</loc>
+    <loc>http://localhost:1313/hugo/posts/post-lite-two/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/posts/post-lite-two/"
+                href="http://localhost:1313/hugo/pt-pt/posts/post-lite-two/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/post-lite-two/"
+                href="http://localhost:1313/hugo/posts/post-lite-two/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hugo/tags/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/tags/"
+                href="http://localhost:1313/hugo/pt-pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="http://localhost:1313/hugo/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/post-lite-four/</loc>
+    <loc>http://localhost:1313/hugo/posts/post-lite-four/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/posts/post-lite-four/"
+                href="http://localhost:1313/hugo/pt-pt/posts/post-lite-four/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/post-lite-four/"
+                href="http://localhost:1313/hugo/posts/post-lite-four/"
                 />
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/hugo/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/authors/"
+                href="http://localhost:1313/hugo/pt-pt/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/authors/"
+                href="http://localhost:1313/hugo/authors/"
                 />
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/hugo/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="//localhost:1313/pt-pt/series/"
+                href="http://localhost:1313/hugo/pt-pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/series/"
+                href="http://localhost:1313/hugo/series/"
                 />
   </url>
 </urlset>
